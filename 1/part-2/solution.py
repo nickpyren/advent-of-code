@@ -1,4 +1,4 @@
-filename = "input"
+filename = "../input"
 value = 0
 occurences = dict()
 occurences[0] = 1
